@@ -1,4 +1,4 @@
 from django import forms
 
-class UploadXMLform(forms.Form):
+class Upload_XML_form(forms.Form):
     file = forms.FileField()
