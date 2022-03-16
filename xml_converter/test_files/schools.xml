@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Root>
+    <Harvard>
+        <Alumnus>John F. Kennedy</Alumnus>
+        <Alumnus>Mark Zuckerberg</Alumnus>
+        <Alumnus>Barack Obama</Alumnus>
+        <Alumnus>Conan O'Brien </Alumnus>
+        <Departments>Engineering</Departments>
+        <Departments>Mathematics</Departments>
+        <Departments>History</Departments>
+        <Location>Cambridge, Massachusetts</Location>
+    </Harvard>
+    <MIT>
+        <Alumnus>Buzz Aldrin </Alumnus>
+        <Alumnus>Ilene S. Gordon</Alumnus>
+        <Alumnus>Richard Feynman</Alumnus>
+        <Alumnus>Jonah Peretti </Alumnus>
+        <Departments>Engineering</Departments>
+        <Departments>Mathematics</Departments>
+        <Departments>History</Departments>
+        <Location>Cambridge, Massachusetts</Location>
+    </MIT>
+</Root>
